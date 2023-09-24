@@ -1,5 +1,5 @@
 # accessories-css
-Challenge CSS - Design by Free HTML Templates
+Challenge CSS
 
 # Deployment:
 https://yeisonvirtual.github.io/accessories-css/
